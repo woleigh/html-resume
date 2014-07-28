@@ -1,0 +1,35 @@
+.job-description{
+	font-family: Garamond, Tahoma;
+	font-weight: bold;
+}
+
+#first {
+	color: #0E7219;
+	}
+
+#second{
+	color: #190E72;
+	}
+#third {
+	color: #72130E;
+	}
+#fourth{
+	color: #800080;
+}
+a:link{
+	text-decoration: none;
+	color: #008B45;
+}
+a:hover{
+	color: #008000;
+}
+a:visited{
+	color: #EE9A00;
+}
+.date{
+	font-size: 18px;
+	font-family: Tahoma;
+}
+.position {
+	font-family: sans-serif;
+}
